@@ -8060,11 +8060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yongq\\source\\repos\\C#\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+      "projectUniqueName": "C:\\Users\\yongq\\OneDrive\\Desktop\\EcommerceBackend\\Ecommerce_Backend\\EcommerceBackend\\EcommerceBackend.csproj",
       "projectName": "EcommerceBackend",
-      "projectPath": "C:\\Users\\yongq\\source\\repos\\C#\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+      "projectPath": "C:\\Users\\yongq\\OneDrive\\Desktop\\EcommerceBackend\\Ecommerce_Backend\\EcommerceBackend\\EcommerceBackend.csproj",
       "packagesPath": "C:\\Users\\yongq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yongq\\source\\repos\\C#\\EcommerceBackend\\EcommerceBackend\\obj\\",
+      "outputPath": "C:\\Users\\yongq\\OneDrive\\Desktop\\EcommerceBackend\\Ecommerce_Backend\\EcommerceBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
