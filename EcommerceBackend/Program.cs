@@ -40,7 +40,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 var provider = new FileExtensionContentTypeProvider();
 provider.Mappings[".avif"] = "male/avif";
-//provider.Mappings[".avif"] = "female/avif";
+provider.Mappings[".avif"] = "female/avif";
 app.UseStaticFiles(new StaticFileOptions
 {
     ContentTypeProvider = provider
